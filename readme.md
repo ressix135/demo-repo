@@ -1,7 +1,8 @@
 # Demo
 
 Some descriptive text !
-
 ## Subheader
 
-Watch the tutorial on youtube.
+## Local Development
+
+1. Open index.html in your browser. 
